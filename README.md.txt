@@ -1,3 +1,4 @@
+🔗 View this project on GitHub: Project Link:https://github.com/binduMdm/walmart-sales-dashboard/tree/main
 # 📊 Walmart Weekly Sales Dashboard
 
 This Power BI dashboard analyzes Walmart’s weekly sales data to uncover how seasonal trends, holidays, and temperature impact sales across various store locations.
@@ -74,4 +75,5 @@ Walmart Sales Data (from Kaggle) – includes weekly sales, temperature, CPI, an
 
 Created by Hima Bindu Mandem
 📧 himabindumandem@gmail.com  
+
 🌐 [LinkedIn](https://www.linkedin.com/in/hima-bindu-m-/)
