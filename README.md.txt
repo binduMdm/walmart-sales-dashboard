@@ -2,7 +2,7 @@
 # 📊 Walmart Weekly Sales Dashboard
 
 This Power BI dashboard analyzes Walmart’s weekly sales data to uncover how seasonal trends, holidays, and temperature impact sales across various store locations.
-
+![Dashboard Preview](Dashboard.png)
 ---
 
 ## 🎯 Project Goal
@@ -77,3 +77,4 @@ Created by Hima Bindu Mandem
 📧 himabindumandem@gmail.com  
 
 🌐 [LinkedIn](https://www.linkedin.com/in/hima-bindu-m-/)
+
